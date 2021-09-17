@@ -18,7 +18,8 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Geothermal NLP Tools \n (WebApp: http://steaming-geothermal-analytics.info)</h3>
+  <h3 align="center">Geothermal NLP Tools 
+    (WebApp: http://steaming-geothermal-analytics.info)</h3>
 
   <p align="center">
 With the globally growing volume of geothermal literature, data analysis has become useful to advance professional and academic research and development efforts. Furthermore, it is essential to leverage state-of-the-art algorithms to develop useful tools based on existing databases. This work utilized statistical and deep learning techniques to draw insights based on the geothermal literature. We retrieved papers from the International Geothermal Association (IGA) database using the Stanford University search engine. As of 23 December 2020, we gathered and preprocessed all 18,873 publications archived in this database, where headers included publication title, authors, year, keywords, abstract, language, conference, and session type.
